@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanessa
 - 👀 I’m interested in GAMING!!
 - 🌱 I’m currently learning swiftUI
-- 💞️ I’m looking to collaborate on interesting software development
+- 💞️ I’m looking to collaborate on interesting data analysis & software development
 - 📫 How to reach me : vanessaljt0202@gmail.com
 - 😄 Pronouns: She/her/hers
